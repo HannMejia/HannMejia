@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HannMejia
-- 👀 I’m interested in Data and Plant Sciences
-- 🌱 I’m currently learning about Web Development
-- 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me: ...
+- 👋 Hola, soy @HannMejia
+- 👀 Soy ingeniera agrónoma fitotecnista y desarrolladora web principiante; manejo lenguajes como html, css, javascript y java.
+- 🌱 Actualmente estoy iniciando una ruta como desarrolladora web, y he descubierto mi interés por el análisis de datos.
+- 💞️ Estoy buscando oportunidades para construir una carrera orientada a la ciencia de datos en el sector agrícola.
+- 📫 How to reach me: hmargarita.mejiar@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: la vida no es vida si no hay obstáculos de por medio, así que tengo experiencia afrontando retos ;)
 
 <!---
 HannMejia/HannMejia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
